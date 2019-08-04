@@ -1,0 +1,18 @@
+Button {
+    -fx-background-color: rgb(22,33,44);
+    -fx-background-radius: 30px;
+    -fx-text-fill: white;
+}
+#text-field {
+   -fx-background-color: #747f37;
+   -fx-border-color: #747f37;
+}
+Button:hover {
+    -fx-font-size: 30px;
+}
+#Base {
+    -fx-background-color: black;
+}
+#label {
+    -fx-background-color: #747f37;
+}
